@@ -20,6 +20,6 @@ Rent-A-Car is a web application built using PHP, MySQL, JavaScript, HTML, and CS
 <img src="https://i.ibb.co/DpYr9SC/Screenshot-C2-2023-04-10-142445.png" height="100%" width="100%" alt="Home Page"/>
 <img src="https://www.linkpicture.com/q/ScreenshotC3-2023-04-10-142524_3.png" height="100%" width="100%" alt="Klientet"/>
 <img src="https://www.linkpicture.com/q/ScreenshotC4-2023-04-10-142625.png" height="100%" width="100%" alt="Modifikimi i Klientit"/>
-<img src="https://i.ibb.co/rc8B1nN/Screenshot-C5-2023-04-10-142716.png" height="100%" width="100%" alt="Rezervimet Page"/>
+<img src="https://www.linkpicture.com/q/ScreenshotC5-2023-04-10-142716.png" height="100%" width="100%" alt="Rezervimet Page"/>
 
 
